@@ -17,7 +17,9 @@
  
  */
 // Answer question 2 below
-
+var albumName = UkuleleHero
+var CopiesSold = 1000
+var SuggestedSellingPrice = 10
 /*:
  ## Now share your understanding
  
