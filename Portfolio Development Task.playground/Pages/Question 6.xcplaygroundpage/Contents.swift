@@ -17,7 +17,8 @@
  
  */
 // Answer question 6 below
-
+Double = targetDistance
+var currentDistanceRun
 
 /*:
  ## Now share your understanding
