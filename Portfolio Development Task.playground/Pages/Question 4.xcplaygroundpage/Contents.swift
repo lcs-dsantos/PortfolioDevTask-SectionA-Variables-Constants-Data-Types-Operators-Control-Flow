@@ -19,6 +19,13 @@
  
  */
 // Answer question 4 below
+var moneyIhaveEarned = 0
+var update1MoneyIhaveEarned = 5
+var update2MoneyIhaveEarned = 3
+var update3moneyIhaveEarned = 12
+var update4moneyIhaveEarned = 9.75
+
+
 
 /*:
  ## Now share your understanding
