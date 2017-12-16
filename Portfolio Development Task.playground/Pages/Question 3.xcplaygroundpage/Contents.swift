@@ -19,6 +19,14 @@
  
  */
 // Answer question 3 below
+var valueOfDimes = 0.10
+var dimeCount = 10
+var valueOfQuarter = 0.25
+var quarterCount = 10
+// we got 1 dollar of dimes and 2.5 dollars of a quarter = 3.5 dollars
+
+
+
 
 /*:
  ## Now share your understanding
